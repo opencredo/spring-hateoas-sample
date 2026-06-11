@@ -1,5 +1,8 @@
 # spring-hateoas-sample
 
+> [!NOTE]
+> This repo has been archived and is no longer under development. OpenCredo is now part of [Trifork](https://github.com/trifork).
+
 A working Spring Boot + Spring HATEOAS application implementing a hypermedia API supporting HAL <http://stateless.co/hal_specification.html>
 
 Look at the related blog post: [Implementing HAL hypermedia REST API using Spring HATEOAS](https://opencredo.com/hal-hypermedia-api-spring-hateoas/)
